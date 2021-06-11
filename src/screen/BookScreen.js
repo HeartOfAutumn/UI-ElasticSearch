@@ -7,11 +7,14 @@ const BookScreen = (props) => {
   const [books, setBooks] = useState(data.books);
 
   const matchBooks = (text) => {
-    if (books.length === 0) {
+    if (text === "") {
       setBooks(data.books);
+    } else {
+      let rightBooks = books.filter(
+        book => book.title.toLowerCase().includes(text.toLowerCase())
+      );
+      setBooks(rightBooks);
     }
-    let rightBooks = books.filter(book => book.title.includes(text));
-    setBooks(rightBooks);
   };
 
   return (
