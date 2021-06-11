@@ -11,14 +11,17 @@ const BookScreen = (props) => {
       setBooks(data.books);
     } else {
       let rightBooks = books.filter(
-        book => book.title.toLowerCase().includes(text.toLowerCase())
+        book =>
+          book.category.toLowerCase().includes(text.toLowerCase())
+          || book.title.toLowerCase().includes(text.toLowerCase())
+          || book.author.toLowerCase().includes(text.toLowerCase())
       );
       setBooks(rightBooks);
     }
   };
 
   return (
-    <div className="container">
+    <div className="container-fluid">
       <Search matchBooks={matchBooks} />
       <ListBook books={books} />
     </div>
