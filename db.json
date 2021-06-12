@@ -1,0 +1,1004 @@
+{
+  "books": [
+    {
+      "category": " Landmarks & Monuments",
+      "title": "The 99% Invisible City: A Field Guide to the Hidden World of Everyday Design",
+      "author": "Roman MarsKurt Kohlstedt",
+      "image": "https://m.media-amazon.com/images/I/91b8lEEcLdL._AC_UY218_.jpg",
+      "published_at": "2020-10-05",
+      "price": 14,
+      "rate": "4.8 out of 5 stars",
+      "total_customer_rate": 2
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Marvelous Manhattan: Stories of the Restaurants, Bars, and Shops That Make This City Special",
+      "author": "Reggie Nadelson",
+      "image": "https://m.media-amazon.com/images/I/913UnUaLJYL._AC_UY218_.jpg",
+      "published_at": "2021-04-12",
+      "price": 21,
+      "rate": "5.0 out of 5 stars",
+      "total_customer_rate": 5
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Black: Architecture in Monochrome, mini format",
+      "author": "Stella Paul",
+      "image": "https://m.media-amazon.com/images/I/81K8Jo9hzyL._AC_UY218_.jpg",
+      "published_at": "2020-01-21",
+      "price": 13,
+      "rate": "4.5 out of 5 stars",
+      "total_customer_rate": 99
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Man-Made Wonders of the World",
+      "author": "DK",
+      "image": "https://m.media-amazon.com/images/I/91CfYrRbnNL._AC_UY218_.jpg",
+      "published_at": "2019-10-07",
+      "price": 26,
+      "rate": "4.8 out of 5 stars",
+      "total_customer_rate": 266
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Ballpark: Baseball in the American City",
+      "author": "Paul Goldberger",
+      "image": "https://m.media-amazon.com/images/I/91nVISv-HBL._AC_UY218_.jpg",
+      "published_at": "2019-05-13",
+      "price": 32,
+      "rate": "4.6 out of 5 stars",
+      "total_customer_rate": 247
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "The Plaza: The Secret Life of America's Most Famous Hotel",
+      "author": "Julie Satow",
+      "image": "https://m.media-amazon.com/images/I/810vFnYBBIL._AC_UY218_.jpg",
+      "published_at": "2019-06-03",
+      "price": 4,
+      "rate": "4.4 out of 5 stars",
+      "total_customer_rate": 396
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Palm Springs: A Modernist Paradise",
+      "author": "Tim Street-Porter",
+      "image": "https://m.media-amazon.com/images/I/91UBwYiQi+L._AC_UY218_.jpg",
+      "published_at": "2018-02-05",
+      "price": 95,
+      "rate": "4.9 out of 5 stars",
+      "total_customer_rate": 68
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Understanding Cemetery Symbols: A Field Guide for Historic Graveyards (Messages from the Dead)",
+      "author": "Tui Snider",
+      "image": "https://m.media-amazon.com/images/I/51PVH+q6XWL._AC_UY218_.jpg",
+      "published_at": "2017-05-29",
+      "price": 13,
+      "rate": "4.6 out of 5 stars",
+      "total_customer_rate": 339
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Grant's Tomb: The Epic Death of Ulysses S. Grant and the Making of an American Pantheon",
+      "author": "Louis L. Picone",
+      "image": "https://m.media-amazon.com/images/I/81hm7m7GCBL._AC_UY218_.jpg",
+      "published_at": "2021-02-15",
+      "price": 19,
+      "rate": "4.7 out of 5 stars",
+      "total_customer_rate": 37
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Destinations of a Lifetime: From Landmarks to Natural Wonders",
+      "author": "Publications International Ltd.",
+      "image": "https://m.media-amazon.com/images/I/91WsKMfylrL._AC_UY218_.jpg",
+      "published_at": "2019-10-14",
+      "price": 10,
+      "rate": "4.8 out of 5 stars",
+      "total_customer_rate": 123
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Architecture: A Visual History",
+      "author": "Jonathan Glancey",
+      "image": "https://m.media-amazon.com/images/I/A1wFTdmuG2L._AC_UY218_.jpg",
+      "published_at": "2017-11-20",
+      "price": 79,
+      "rate": "4.8 out of 5 stars",
+      "total_customer_rate": 378
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Soviet Bus Stops",
+      "author": "Christopher Herwig",
+      "image": "https://m.media-amazon.com/images/I/619ymxeOziL._AC_UY218_.jpg",
+      "published_at": "2015-09-28",
+      "price": 20,
+      "rate": "4.8 out of 5 stars",
+      "total_customer_rate": 379
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "City Hall: Masterpieces of American Civic Architecture",
+      "author": "Arthur Drooker",
+      "image": "https://m.media-amazon.com/images/I/71bzVDigbdL._AC_UY218_.jpg",
+      "published_at": "2021-01-27",
+      "price": 44,
+      "rate": "4.4 out of 5 stars",
+      "total_customer_rate": 7
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Building Chicago: The Architectural Masterworks",
+      "author": "John Zukowsky",
+      "image": "https://m.media-amazon.com/images/I/B18bcleBeoS._AC_UY218_.jpg",
+      "published_at": "2016-10-03",
+      "price": 86,
+      "rate": "4.9 out of 5 stars",
+      "total_customer_rate": 41
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Dot-to-Dot Beautiful Landmarks: Puzzles from 386 to 864 Dots (Dot to Dot Books For Adults) (Volume 16)",
+      "author": "Dottie's Crazy Dot to Dots",
+      "image": "https://m.media-amazon.com/images/I/91sDrX27cJL._AC_UY218_.jpg",
+      "published_at": "2017-09-27",
+      "price": 7,
+      "rate": "4.7 out of 5 stars",
+      "total_customer_rate": 219
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Christmas at Highclere: Recipes and Traditions from The Real Downton Abbey",
+      "author": "The Countess of Carnarvon",
+      "image": "https://m.media-amazon.com/images/I/91U4ZSNaHyL._AC_UY218_.jpg",
+      "published_at": "2019-10-24",
+      "price": 28,
+      "rate": "4.9 out of 5 stars",
+      "total_customer_rate": 1
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Brilliant Beacons: A History of the American Lighthouse",
+      "author": "Eric Jay Dolin",
+      "image": "https://m.media-amazon.com/images/I/81bjDq2cfJL._AC_UY218_.jpg",
+      "published_at": "2016-03-30",
+      "price": 9,
+      "rate": "4.7 out of 5 stars",
+      "total_customer_rate": 167
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Versailles: A Private Invitation (STYLE ET DESIGN - LANGUE ANGLAISE)",
+      "author": "Francis Hammond",
+      "image": "https://m.media-amazon.com/images/I/71u+pVJx4GL._AC_UY218_.jpg",
+      "published_at": "2018-02-05",
+      "price": 87,
+      "rate": "4.8 out of 5 stars",
+      "total_customer_rate": 116
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Lies Across America: What Our Historic Sites Get Wrong",
+      "author": "James W. Loewen",
+      "image": "https://m.media-amazon.com/images/I/91jwPgcDCNL._AC_UY218_.jpg",
+      "published_at": "2019-09-23",
+      "price": 19,
+      "rate": "4.7 out of 5 stars",
+      "total_customer_rate": 75
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Biltmore Estate (Images of America: North Carolina)",
+      "author": "Ellen Erwin Rickman",
+      "image": "https://m.media-amazon.com/images/I/51VjwDQ4-VL._AC_UY218_.jpg",
+      "published_at": "2005-02-22",
+      "price": 21,
+      "rate": "4.7 out of 5 stars",
+      "total_customer_rate": 98
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Store Front: The Disappearing Face of New York",
+      "author": "James T MurrayKarla L Murray",
+      "image": "https://m.media-amazon.com/images/I/81Y1HSED7FL._AC_UY218_.jpg",
+      "published_at": "2011-01-20",
+      "price": 22,
+      "rate": "4.9 out of 5 stars",
+      "total_customer_rate": 78
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Notre-Dame: A Short History of the Meaning of Cathedrals",
+      "author": "Ken Follett",
+      "image": "https://m.media-amazon.com/images/I/91EFLprlbIL._AC_UY218_.jpg",
+      "published_at": "2019-10-28",
+      "price": 9,
+      "rate": "4.3 out of 5 stars",
+      "total_customer_rate": 1
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Where Today Meets Tomorrow: Eero Saarinen and the General Motors Technical Center (icon of midcentury architecture by Eero Saarinen)",
+      "author": "Susan Skarsgard",
+      "image": "https://m.media-amazon.com/images/I/81mAlbLH8SL._AC_UY218_.jpg",
+      "published_at": "2019-10-21",
+      "price": 30,
+      "rate": "4.8 out of 5 stars",
+      "total_customer_rate": 24
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Le Corbusier & Pierre Jeanneret: Chandigarh, India",
+      "author": "Patrick Seguin",
+      "image": "https://m.media-amazon.com/images/I/71iOMYz0GzL._AC_UY218_.jpg",
+      "published_at": "2014-09-29",
+      "price": 152,
+      "rate": "5.0 out of 5 stars",
+      "total_customer_rate": 4
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "The Illustrated Encyclopedia of Royal Britain: A Magnificent Study of Britain's Royal Heritage With",
+      "author": "Charles Phillips",
+      "image": "https://m.media-amazon.com/images/I/51HKDtBLYfL._AC_UY218_.jpg",
+      "published_at": "2008-12-31",
+      "price": 22,
+      "rate": "4.7 out of 5 stars",
+      "total_customer_rate": 75
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "The Bowery Boys: Adventures in Old New York: An Unconventional Exploration of Manhattan's Historic Neighborhoods, Secret Spots and Colorful Characters",
+      "author": "Greg YoungTom Meyers",
+      "image": "https://m.media-amazon.com/images/I/81Yho7HpbsL._AC_UY218_.jpg",
+      "published_at": "2016-06-20",
+      "price": 25,
+      "rate": "4.7 out of 5 stars",
+      "total_customer_rate": 98
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Abandoned America: Dismantling The Dream",
+      "author": "Matthew Christopher",
+      "image": "https://m.media-amazon.com/images/I/51vFEl7Qd9L._AC_UY218_.jpg",
+      "published_at": "2016-09-14",
+      "price": 84,
+      "rate": "4.7 out of 5 stars",
+      "total_customer_rate": 134
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Restoring Williamsburg",
+      "author": "George Humphrey Yetter",
+      "image": "https://m.media-amazon.com/images/I/712CMbsifhL._AC_UY218_.jpg",
+      "published_at": "2019-08-12",
+      "price": 34,
+      "rate": "4.8 out of 5 stars",
+      "total_customer_rate": 59
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "American Hotel: The Waldorf-Astoria and the Making of a Century",
+      "author": "David Freeland",
+      "image": "https://m.media-amazon.com/images/I/61MSUu6KjzL._AC_UY218_.jpg",
+      "published_at": "2021-05-13",
+      "price": 28,
+      "rate": "0",
+      "total_customer_rate": 0
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Knott's Preserved: From Boysenberry to Theme Park, the History of Knott's Berry Farm",
+      "author": "Christopher Merritt",
+      "image": "https://m.media-amazon.com/images/I/71pmErbAwEL._AC_UY218_.jpg",
+      "published_at": "2015-08-14",
+      "price": 40,
+      "rate": "4.9 out of 5 stars",
+      "total_customer_rate": 38
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Where in the World? Famous Buildings and Landmarks Then and Now - Geography Book for Kids | Children's Explore the World Books",
+      "author": "Baby Professor",
+      "image": "https://m.media-amazon.com/images/I/81phP+SnN-L._AC_UY218_.jpg",
+      "published_at": "2017-09-14",
+      "price": 10,
+      "rate": "4.2 out of 5 stars",
+      "total_customer_rate": 47
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Famous Movie Scenes: Dot-to-Dot Puzzles from 358 to 930 Dots (Dot to Dot Books For Adults) (Volume 19)",
+      "author": "Dottie's Crazy Dot to Dots",
+      "image": "https://m.media-amazon.com/images/I/71is7ltWJjL._AC_UY218_.jpg",
+      "published_at": "2017-09-28",
+      "price": 14,
+      "rate": "4.6 out of 5 stars",
+      "total_customer_rate": 182
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Vienna: Art and Architecture",
+      "author": "Rolf Toman",
+      "image": "https://m.media-amazon.com/images/I/51qTbL+OvUL._AC_UY218_.jpg",
+      "published_at": "2013-04-14",
+      "price": 28,
+      "rate": "4.8 out of 5 stars",
+      "total_customer_rate": 29
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Fantastic Cities and Landmarks Dot-to-Dot for Adults: Puzzles from 456 to 938 Dots (Fun Dot to Dot for Adults) (Volume 18)",
+      "author": "Laura's Dot to Dot Therapy",
+      "image": "https://m.media-amazon.com/images/I/81mJjkv3XbL._AC_UY218_.jpg",
+      "published_at": "2018-05-18",
+      "price": 7,
+      "rate": "4.3 out of 5 stars",
+      "total_customer_rate": 47
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Notre Dame Cathedral (Nine Centuries of History)",
+      "author": "Dany Sandron",
+      "image": "https://m.media-amazon.com/images/I/91rQHofXmoL._AC_UY218_.jpg",
+      "published_at": "2020-03-14",
+      "price": 34,
+      "rate": "4.4 out of 5 stars",
+      "total_customer_rate": 18
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Dot-to-Dot Landmarks for Adults: Puzzles from 171 to 889 dots (Dot to Dot Books For Adults) (Volume 2)",
+      "author": "Dottie's Crazy Dot-to-Dots",
+      "image": "https://m.media-amazon.com/images/I/71+xPNW0cZL._AC_UY218_.jpg",
+      "published_at": "2017-07-09",
+      "price": 7,
+      "rate": "4.4 out of 5 stars",
+      "total_customer_rate": 174
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Art Deco: The Twentieth Century's Iconic Decorative Style from Paris, London, and Brussels to New York, Sydney, and Santa Monica",
+      "author": "Arnold Schwartzman",
+      "image": "https://m.media-amazon.com/images/I/91U7jPXbNXL._AC_UY218_.jpg",
+      "published_at": "2019-02-11",
+      "price": 13,
+      "rate": "3.6 out of 5 stars",
+      "total_customer_rate": 21
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Castles: Their Construction and History (Dover Architecture)",
+      "author": "Sidney Toy",
+      "image": "https://m.media-amazon.com/images/I/812+RqZLG1L._AC_UY218_.jpg",
+      "published_at": "1985-11-30",
+      "price": 86,
+      "rate": "4.3 out of 5 stars",
+      "total_customer_rate": 73
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "TRAVEL MOSAIC Color by Number: Activity Puzzle Coloring Book for Adults Relaxation & Stress Relief (Mosaic Coloring Books)",
+      "author": "Sunlife Drawing",
+      "image": "https://m.media-amazon.com/images/I/612JSvwnR0L._AC_UY218_.jpg",
+      "published_at": "2018-04-30",
+      "price": 7,
+      "rate": "4.6 out of 5 stars",
+      "total_customer_rate": 246
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "City of Immortals: Père-Lachaise Cemetery, Paris (ORO)",
+      "author": "Carolyn Campbell",
+      "image": "https://m.media-amazon.com/images/I/81vAqvXHX6L._AC_UY218_.jpg",
+      "published_at": "2019-10-21",
+      "price": 23,
+      "rate": "4.5 out of 5 stars",
+      "total_customer_rate": 54
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Modernist Escapes: An Architectural Travel Guide",
+      "author": "Stefi Orazi",
+      "image": "https://m.media-amazon.com/images/I/81ZLaQAv+ML._AC_UY218_.jpg",
+      "published_at": "2021-03-22",
+      "price": 31,
+      "rate": "4.5 out of 5 stars",
+      "total_customer_rate": 5
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Abandoned America: The Age of Consequences (Jonglez photo books)",
+      "author": "Matthew Christopher",
+      "image": "https://m.media-amazon.com/images/I/71voQpeQoiL._AC_UY218_.jpg",
+      "published_at": "2014-12-06",
+      "price": 33,
+      "rate": "4.7 out of 5 stars",
+      "total_customer_rate": 262
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Standing Soldiers, Kneeling Slaves: Race, War, and Monument in Nineteenth-Century America, New Edition",
+      "author": "Kirk Savage",
+      "image": "https://m.media-amazon.com/images/I/41YkT5xVVnL._AC_UY218_.jpg",
+      "published_at": "2018-07-30",
+      "price": 23,
+      "rate": "4.7 out of 5 stars",
+      "total_customer_rate": 29
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Edge of Order (CLARKSON POTTER)",
+      "author": "Daniel Libeskind",
+      "image": "https://m.media-amazon.com/images/I/814REVQlNHL._AC_UY218_.jpg",
+      "published_at": "2018-11-26",
+      "price": 26,
+      "rate": "4.6 out of 5 stars",
+      "total_customer_rate": 30
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Famous Places Around the World Dot-to Dot Book For Adults (Fun Dot to Dot for Adults) (Volume 2)",
+      "author": "Laura's Dot to Dot Therapy",
+      "image": "https://m.media-amazon.com/images/I/71eMjJ0PGNL._AC_UY218_.jpg",
+      "published_at": "2018-01-01",
+      "price": 7,
+      "rate": "4.4 out of 5 stars",
+      "total_customer_rate": 60
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Jefferson's White House: Monticello on the Potomac",
+      "author": "James B. Conroy",
+      "image": "https://m.media-amazon.com/images/I/81RUq3c63BL._AC_UY218_.jpg",
+      "published_at": "2019-10-22",
+      "price": 11,
+      "rate": "4.7 out of 5 stars",
+      "total_customer_rate": 27
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Manhattan's Hotel des Artistes: America's Paris on West 67th Street",
+      "author": "Robert Hudovernik",
+      "image": "https://m.media-amazon.com/images/I/71etqvWJH0L._AC_UY218_.jpg",
+      "published_at": "2020-12-07",
+      "price": 45,
+      "rate": "5.0 out of 5 stars",
+      "total_customer_rate": 4
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Kensington Palace: An Intimate Memoir from Queen Mary to Meghan Markle (Biteback Publishing)",
+      "author": "Tom Quinn",
+      "image": "https://m.media-amazon.com/images/I/91ARf-mi4BL._AC_UY218_.jpg",
+      "published_at": "2021-01-11",
+      "price": 6,
+      "rate": "3.5 out of 5 stars",
+      "total_customer_rate": 294
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Architectural Classics Notecards: 20 Prints and Envelopes (20 different cards on luxe paper, 9 x 6\", gold foil stamped box, great for all occasions)",
+      "author": "Princeton Architectural Press",
+      "image": "https://m.media-amazon.com/images/I/71O2JzjR0aL._AC_UY218_.jpg",
+      "published_at": "2019-10-28",
+      "price": 10,
+      "rate": "4.3 out of 5 stars",
+      "total_customer_rate": 9
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Historic Sanibel and Captiva Islands: Tales of Paradise",
+      "author": "Jeri Magg",
+      "image": "https://m.media-amazon.com/images/I/61z9Ne3j0ML._AC_UY218_.jpg",
+      "published_at": "2011-08-10",
+      "price": 96,
+      "rate": "4.8 out of 5 stars",
+      "total_customer_rate": 19
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Michigan's Haunted Lighthouses (Haunted America)",
+      "author": "Dianna Higgs Stampfler",
+      "image": "https://m.media-amazon.com/images/I/71v8croWwrL._AC_UY218_.jpg",
+      "published_at": "2019-03-03",
+      "price": 15,
+      "rate": "4.8 out of 5 stars",
+      "total_customer_rate": 36
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "The Hidden White House: Harry Truman and the Reconstruction of America’s Most Famous Residence",
+      "author": "Robert Klara",
+      "image": "https://m.media-amazon.com/images/I/91YJATsAe5L._AC_UY218_.jpg",
+      "published_at": "2013-10-21",
+      "price": 56,
+      "rate": "4.6 out of 5 stars",
+      "total_customer_rate": 280
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "The Vanishing Stepwells of India",
+      "author": "Victoria Lautman",
+      "image": "https://m.media-amazon.com/images/I/71G0U9CPt8L._AC_UY218_.jpg",
+      "published_at": "2020-10-05",
+      "price": 74,
+      "rate": "4.6 out of 5 stars",
+      "total_customer_rate": 59
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Exploring AutoCAD Civil 3D 2020, 10th Edition",
+      "author": "Prof. Sham Tickoo Purdue Univ.",
+      "image": "https://m.media-amazon.com/images/I/512+7EF8C2L._AC_UY218_.jpg",
+      "published_at": "2020-04-03",
+      "price": 70,
+      "rate": "4.5 out of 5 stars",
+      "total_customer_rate": 2
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Nevada's Historic Buildings: A Cultural Legacy (Shepperson Series in Nevada History)",
+      "author": "Ronald M. James",
+      "image": "https://m.media-amazon.com/images/I/51wEcQmXhrL._AC_UY218_.jpg",
+      "published_at": "2009-09-14",
+      "price": 51,
+      "rate": "0",
+      "total_customer_rate": 0
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Versailles: A Biography of a Palace (ST. MARTIN'S GR)",
+      "author": "Tony Spawforth",
+      "image": "https://m.media-amazon.com/images/I/81u8yvasnnL._AC_UY218_.jpg",
+      "published_at": "2010-03-15",
+      "price": 15,
+      "rate": "4.6 out of 5 stars",
+      "total_customer_rate": 124
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Begin with the Past: Building the National Museum of African American History and Culture",
+      "author": "Mabel O. Wilson",
+      "image": "https://m.media-amazon.com/images/I/91jSs0hWaJL._AC_UY218_.jpg",
+      "published_at": "2016-09-26",
+      "price": 28,
+      "rate": "4.9 out of 5 stars",
+      "total_customer_rate": 58
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "The Hotel on Place Vendome: Life, Death, and Betrayal at the Hotel Ritz in Paris",
+      "author": "Tilar J Mazzeo",
+      "image": "https://m.media-amazon.com/images/I/719IkAf9uBL._AC_UY218_.jpg",
+      "published_at": "2015-02-23",
+      "price": 53,
+      "rate": "4.0 out of 5 stars",
+      "total_customer_rate": 395
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "New York Deco",
+      "author": "Richard Berenholtz",
+      "image": "https://m.media-amazon.com/images/I/A1Q1NfdYy3L._AC_UY218_.jpg",
+      "published_at": "2009-10-05",
+      "price": 63,
+      "rate": "4.5 out of 5 stars",
+      "total_customer_rate": 63
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Eiffel's Tower: The Thrilling Story Behind Paris's Beloved Monument and the Extraordinary World's Fair That Introduced It",
+      "author": "Jill Jonnes",
+      "image": "https://m.media-amazon.com/images/I/515SLfmjy7L._AC_UY218_.jpg",
+      "published_at": "2009-04-29",
+      "price": 12,
+      "rate": "4.4 out of 5 stars",
+      "total_customer_rate": 153
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Notre Dame de Paris: A Celebration of the Cathedral",
+      "author": "Kathy Borrus",
+      "image": "https://m.media-amazon.com/images/I/71oj+Upc1vL._AC_UY218_.jpg",
+      "published_at": "2019-10-28",
+      "price": 14,
+      "rate": "4.7 out of 5 stars",
+      "total_customer_rate": 43
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "In Memory Of: Designing Contemporary Memorials",
+      "author": "Spencer Bailey",
+      "image": "https://m.media-amazon.com/images/I/61heb3TmrcL._AC_UY218_.jpg",
+      "published_at": "2020-10-27",
+      "price": 52,
+      "rate": "4.9 out of 5 stars",
+      "total_customer_rate": 10
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "The Georgia Guidestones: America's Most Mysterious Monument",
+      "author": "Raymond WileyKT Prime",
+      "image": "https://m.media-amazon.com/images/I/51fepq-15bL._AC_UY218_.jpg",
+      "published_at": "2012-01-09",
+      "price": 31,
+      "rate": "4.4 out of 5 stars",
+      "total_customer_rate": 43
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Westminster Abbey: A Church in History (Paul Mellon Centre for Studies in British Art)",
+      "author": "David Cannadine",
+      "image": "https://m.media-amazon.com/images/I/61cTAUhr37L._AC_UY218_.jpg",
+      "published_at": "2019-11-11",
+      "price": 45,
+      "rate": "4.7 out of 5 stars",
+      "total_customer_rate": 38
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Landmarks & Historic Sites of Long Island",
+      "author": "Ralph F. Brady",
+      "image": "https://m.media-amazon.com/images/I/51SQKq0WLqL._AC_UY218_.jpg",
+      "published_at": "2012-07-16",
+      "price": 62,
+      "rate": "4.3 out of 5 stars",
+      "total_customer_rate": 22
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Chicago's 1893 World's Fair (Images of America)",
+      "author": "Joseph M. Di Cola",
+      "image": "https://m.media-amazon.com/images/I/71koeNxU9eL._AC_UY218_.jpg",
+      "published_at": "2012-10-07",
+      "price": 48,
+      "rate": "4.5 out of 5 stars",
+      "total_customer_rate": 29
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Thomas Point Shoal Lighthouse: A Chesapeake Bay Icon (Landmarks)",
+      "author": "David Gendell",
+      "image": "https://m.media-amazon.com/images/I/8182rFRa5SL._AC_UY218_.jpg",
+      "published_at": "2020-10-11",
+      "price": 19,
+      "rate": "5.0 out of 5 stars",
+      "total_customer_rate": 36
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Golden Gate Bridge: History and Design of an Icon",
+      "author": "Donald MacDonald",
+      "image": "https://m.media-amazon.com/images/I/417kDScHPyL._AC_UY218_.jpg",
+      "published_at": "2008-04-01",
+      "price": 6,
+      "rate": "4.6 out of 5 stars",
+      "total_customer_rate": 24
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "A Day at Château de Chantilly: The Estate and Gardens of the Duke of Aumale (Langue anglaise)",
+      "author": "Adrien GoetzMathieu Deldicque",
+      "image": "https://m.media-amazon.com/images/I/81pc8eOxfbL._AC_UY218_.jpg",
+      "published_at": "2020-10-05",
+      "price": 27,
+      "rate": "4.1 out of 5 stars",
+      "total_customer_rate": 5
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "The Man in the Glass House: Philip Johnson, Architect of the Modern Century",
+      "author": "Mark Lamster",
+      "image": "https://m.media-amazon.com/images/I/51-BfDdw1bL._AC_UY218_.jpg",
+      "published_at": "2018-11-05",
+      "price": 41,
+      "rate": "4.5 out of 5 stars",
+      "total_customer_rate": 60
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Monumental Harm: Reckoning with Jim Crow Era Confederate Monuments",
+      "author": "Roger C. Hartley",
+      "image": "https://m.media-amazon.com/images/I/41B8sGoKBML._AC_UY218_.jpg",
+      "published_at": "2021-01-11",
+      "price": 72,
+      "rate": "5.0 out of 5 stars",
+      "total_customer_rate": 6
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "The Complete Zaha Hadid",
+      "author": "Aaron Betsky",
+      "image": "https://m.media-amazon.com/images/I/61QXO-+I1gL._AC_UY218_.jpg",
+      "published_at": "2018-01-22",
+      "price": 45,
+      "rate": "4.5 out of 5 stars",
+      "total_customer_rate": 83
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Fighting Proud: The Untold Story of the Gay Men Who Served in Two World Wars",
+      "author": "Stephen Bourne",
+      "image": "https://m.media-amazon.com/images/I/71Etpu4k-yL._AC_UY218_.jpg",
+      "published_at": "2019-12-25",
+      "price": 20,
+      "rate": "4.5 out of 5 stars",
+      "total_customer_rate": 59
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Versailles: The Great and Hidden Splendors of the Sun King's Palace",
+      "author": "Christophe Fouin",
+      "image": "https://m.media-amazon.com/images/I/71r0xyawyzL._AC_UY218_.jpg",
+      "published_at": "2017-09-11",
+      "price": 85,
+      "rate": "4.8 out of 5 stars",
+      "total_customer_rate": 28
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Autopsy of America: The Death of a Nation",
+      "author": "Seph Lawless",
+      "image": "https://m.media-amazon.com/images/I/81JqEe-wEFL._AC_UY218_.jpg",
+      "published_at": "2017-05-29",
+      "price": 31,
+      "rate": "4.5 out of 5 stars",
+      "total_customer_rate": 153
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "America's Covered Bridges: Practical Crossings - Nostalgic Icons",
+      "author": "Terry E. MillerRonald G. Knapp",
+      "image": "https://m.media-amazon.com/images/I/A1oovcxTzBL._AC_UY218_.jpg",
+      "published_at": "2017-08-07",
+      "price": 12,
+      "rate": "4.7 out of 5 stars",
+      "total_customer_rate": 87
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Utzon Uncovered: Revisiting Jørn Utzon's Masterwork on Mallorca",
+      "author": "Lise Juel",
+      "image": "https://m.media-amazon.com/images/I/918pmjQUqrL._AC_UY218_.jpg",
+      "published_at": "2020-11-30",
+      "price": 31,
+      "rate": "0",
+      "total_customer_rate": 0
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "The New York Public Library: The Architecture and Decoration of the Stephen A. Schwarzman Building",
+      "author": "Henry Hope ReedFrancis Morrone",
+      "image": "https://m.media-amazon.com/images/I/51-iRwJqubL._AC_UY218_.jpg",
+      "published_at": "2011-06-19",
+      "price": 64,
+      "rate": "4.2 out of 5 stars",
+      "total_customer_rate": 15
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "The Architecture of Whimsy: Mid-20th-Century Modern Architecture in South Florida",
+      "author": "Arthur Jay Marcus",
+      "image": "https://m.media-amazon.com/images/I/71wz8CNorGL._AC_UY218_.jpg",
+      "published_at": "2020-09-27",
+      "price": 92,
+      "rate": "5.0 out of 5 stars",
+      "total_customer_rate": 7
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Columbus Neighborhoods: A Guide to the Landmarks of Franklinton, German Village, King-Lincoln, Olde Town East, Short North & the University District (History & Guide)",
+      "author": "Tom Betti",
+      "image": "https://m.media-amazon.com/images/I/512tMcG6kwL._AC_UY218_.jpg",
+      "published_at": "2013-09-30",
+      "price": 19,
+      "rate": "4.8 out of 5 stars",
+      "total_customer_rate": 12
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Freedom Trail Pop Up Book of Boston",
+      "author": "Denise D. Price",
+      "image": "https://m.media-amazon.com/images/I/51y-n2Y+p5L._AC_UY218_.jpg",
+      "published_at": "2015-03-31",
+      "price": 29,
+      "rate": "4.2 out of 5 stars",
+      "total_customer_rate": 15
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Philadelphia Graveyards and Cemeteries (Images of America: Pennsylvania)",
+      "author": "Thomas  H.  Keels",
+      "image": "https://m.media-amazon.com/images/I/81gSVcLTW2L._AC_UY218_.jpg",
+      "published_at": "2003-08-05",
+      "price": 21,
+      "rate": "4.7 out of 5 stars",
+      "total_customer_rate": 17
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "The Biltmore Estate: Gardens and Grounds (Images of America)",
+      "author": "Bill Alexander",
+      "image": "https://m.media-amazon.com/images/I/51uw2+khXBL._AC_UY218_.jpg",
+      "published_at": "2015-11-08",
+      "price": 20,
+      "rate": "4.8 out of 5 stars",
+      "total_customer_rate": 26
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "The American Vitruvius: An Architects' Handbook of Urban Design (Dover Architecture)",
+      "author": "Werner Hegemann",
+      "image": "https://m.media-amazon.com/images/I/51l7SNMaxZL._AC_UY218_.jpg",
+      "published_at": "2010-07-21",
+      "price": 29,
+      "rate": "4.8 out of 5 stars",
+      "total_customer_rate": 7
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Creative Haven Circular Cities Coloring Book (Creative Haven Coloring Books)",
+      "author": "David Bodo",
+      "image": "https://m.media-amazon.com/images/I/91rBXu1yQXL._AC_UY218_.jpg",
+      "published_at": "2016-12-13",
+      "price": 5,
+      "rate": "4.3 out of 5 stars",
+      "total_customer_rate": 102
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Philadelphia Architecture: A Guide to the City, Fourth Edition",
+      "author": "John Andrew Gallery",
+      "image": "https://m.media-amazon.com/images/I/919+nPlThbL._AC_UY218_.jpg",
+      "published_at": "2016-04-04",
+      "price": 23,
+      "rate": "4.7 out of 5 stars",
+      "total_customer_rate": 11
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "After the Final Curtain: The Fall of the American Movie Theater (Jonglez photo books)",
+      "author": "Matt Lambros",
+      "image": "https://m.media-amazon.com/images/I/71TFG2i2F7L._AC_UY218_.jpg",
+      "published_at": "2016-11-14",
+      "price": 24,
+      "rate": "4.7 out of 5 stars",
+      "total_customer_rate": 60
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Lost Detroit: Stories Behind the Motor City's Majestic Ruins",
+      "author": "Dan AustinSean Doerr",
+      "image": "https://m.media-amazon.com/images/I/A1ehaUF0k5L._AC_UY218_.jpg",
+      "published_at": "2010-08-01",
+      "price": 41,
+      "rate": "4.6 out of 5 stars",
+      "total_customer_rate": 115
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Easy to Read Large Print Dot-to-Dot Beautiful Landscapes: Puzzles from 150 to 760 Dots (Fun Dot to Dot for Adults) (Volume 8)",
+      "author": "Laura's Dot to Dot Therapy",
+      "image": "https://m.media-amazon.com/images/I/61bRYTMkn3L._AC_UY218_.jpg",
+      "published_at": "2018-01-24",
+      "price": 7,
+      "rate": "4.3 out of 5 stars",
+      "total_customer_rate": 78
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Epic of the Center:: Wurlitzer's Mighty Pipe Organ",
+      "author": "John Clark McCall Jr.",
+      "image": "https://m.media-amazon.com/images/I/41OAhsOgLQL._AC_UY218_.jpg",
+      "published_at": "2020-03-14",
+      "price": 57,
+      "rate": "3.8 out of 5 stars",
+      "total_customer_rate": 4
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "The 1939-1940 New York World's Fair The World of Tomorrow (Images of America)",
+      "author": "Bill Cotter",
+      "image": "https://m.media-amazon.com/images/I/71yxIczr1gL._AC_UY218_.jpg",
+      "published_at": "2018-12-09",
+      "price": 17,
+      "rate": "4.9 out of 5 stars",
+      "total_customer_rate": 11
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Vitruvius Britannicus: The Classic of Eighteenth-Century British Architecture (Dover Architecture)",
+      "author": "Colen Campbell",
+      "image": "https://m.media-amazon.com/images/I/51piybllvDL._AC_UY218_.jpg",
+      "published_at": "2006-12-28",
+      "price": 24,
+      "rate": "4.5 out of 5 stars",
+      "total_customer_rate": 34
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "The Annotated Arch: A Crash Course in the History Of Architecture",
+      "author": "Carol Strickland",
+      "image": "https://m.media-amazon.com/images/I/71yj-9VHmDL._AC_UY218_.jpg",
+      "published_at": "2018-08-09",
+      "price": 24,
+      "rate": "4.8 out of 5 stars",
+      "total_customer_rate": 6
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "The American Museum of Natural History and How It Got That Way",
+      "author": "Colin Davey",
+      "image": "https://m.media-amazon.com/images/I/91IT-Oz4gPL._AC_UY218_.jpg",
+      "published_at": "2019-05-13",
+      "price": 30,
+      "rate": "4.6 out of 5 stars",
+      "total_customer_rate": 19
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Friar Park: A Pictorial History",
+      "author": "The Cardinals",
+      "image": "https://m.media-amazon.com/images/I/719qBCM+UdL._AC_UY218_.jpg",
+      "published_at": "2014-09-21",
+      "price": 24,
+      "rate": "4.3 out of 5 stars",
+      "total_customer_rate": 34
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Houses of the National Trust",
+      "author": "Lydia Greeves",
+      "image": "https://m.media-amazon.com/images/I/A1Oirq4WKiL._AC_UY218_.jpg",
+      "published_at": "2017-05-31",
+      "price": 95,
+      "rate": "4.9 out of 5 stars",
+      "total_customer_rate": 81
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Cape Lookout Lighthouse",
+      "author": "Paul Russell Parker III",
+      "image": "https://m.media-amazon.com/images/I/71V5FGIeuhL._AC_UY218_.jpg",
+      "published_at": "2018-06-24",
+      "price": 13,
+      "rate": "5.0 out of 5 stars",
+      "total_customer_rate": 2
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "All About Nubble Light: Cape Neddick Light Station, York, Maine",
+      "author": "Jeremy D'Entremont",
+      "image": "https://m.media-amazon.com/images/I/81oYHx97IqL._AC_UY218_.jpg",
+      "published_at": "2018-04-30",
+      "price": 53,
+      "rate": "4.9 out of 5 stars",
+      "total_customer_rate": 16
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "The White House: The History of an American Idea",
+      "author": "William Seale",
+      "image": "https://m.media-amazon.com/images/I/51Mu1ac3e2L._AC_UY218_.jpg",
+      "published_at": "2000-12-31",
+      "price": 64,
+      "rate": "4.2 out of 5 stars",
+      "total_customer_rate": 13
+    },
+    {
+      "category": " Landmarks & Monuments",
+      "title": "Golden Gate: The Life and Times of America's Greatest Bridge",
+      "author": "Kevin Starr",
+      "image": "https://m.media-amazon.com/images/I/51Iw+hA6hoL._AC_UY218_.jpg",
+      "published_at": "2010-07-05",
+      "price": 18,
+      "rate": "4.0 out of 5 stars",
+      "total_customer_rate": 46
+    }
+  ]
+}
