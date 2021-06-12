@@ -6,16 +6,21 @@ const Search = (props) => {
   const [categoryIsChecked, setCategoryIsChecked] = useState(false);
   const [titleIsChecked, setTitleIsChecked] = useState(false);
   const [authorIsChecked, setAuthorIsChecked] = useState(false);
+  const [startAt, setStartAt] = useState('');
+  const [endAt, setEndAt] = useState('');
 
   const searchBy = {
+    text,
     category: categoryIsChecked,
     title: titleIsChecked,
-    author: authorIsChecked
+    author: authorIsChecked,
+    startAt,
+    endAt
   }
 
   const submitHandler = (e) => {
     e.preventDefault();
-    matchBooks(text, searchBy);
+    matchBooks(searchBy);
   }
 
   return (
@@ -62,18 +67,22 @@ const Search = (props) => {
             </div>
 
             <div className="col">
-              <label htmlFor="startDay">Ngày bắt đầu:</label>
+              <label htmlFor="startAt">Ngày bắt đầu:</label>
               <input
                 type="date"
-                id="startDay"
+                id="startAt"
+                value={startAt}
+                onChange={(e) => setStartAt(e.target.value)}
               />
             </div>
 
             <div className="col">
-              <label htmlFor="endDay">Ngày bắt đầu:</label>
+              <label htmlFor="endAt">Ngày kết thúc:</label>
               <input
                 type="date"
-                id="endDay"
+                id="endAt"
+                value={endAt}
+                onChange={(e) => setEndAt(e.target.value)}
               />
             </div>
           </div>
