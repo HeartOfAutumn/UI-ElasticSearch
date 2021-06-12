@@ -26,7 +26,7 @@ const BookScreen = (props) => {
     setSearchBy(searchBy);
   }
 
-  // Test với dữ liệu ở máys
+  // Test với dữ liệu ở máy
 /*   const matchBooks = (searchBy) => {
     console.log(searchBy);
     if (searchBy.text === "") {
