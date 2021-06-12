@@ -6,7 +6,8 @@ import data from '../data';
 const BookScreen = (props) => {
   const [books, setBooks] = useState(data.books);
 
-  const matchBooks = (text) => {
+  const matchBooks = (text, searchBy) => {
+    console.log(searchBy);
     if (text === "") {
       setBooks(data.books);
     } else {

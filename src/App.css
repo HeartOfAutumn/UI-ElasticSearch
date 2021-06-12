@@ -11,10 +11,11 @@ img{
   display: flex;
 }
 
-.search > form > input{
+.search > form input{
   width: 70%;
+  padding: 5px;
 }
-.search > form > button{
+.search > form button{
   width: 30%;
 }
 
