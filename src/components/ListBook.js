@@ -1,7 +1,8 @@
 import React from 'react';
+import Pagination from "react-js-pagination";
 
 const ListBook = (props) => {
-  const { books, total, max_score } = props;
+  const { books, total, max_score, activePage } = props;
 
   return (
     <div>
@@ -23,7 +24,7 @@ const ListBook = (props) => {
         <div className="col-1">Max Score: {max_score}</div>
       </div>
 
-      {books.map((book, index) => (
+      {books && books.map((book, index) => (
         <div key={index} className="row book">
           <div className="col-1">{index}</div>
           <div className="col">{book.category}</div>
@@ -39,6 +40,16 @@ const ListBook = (props) => {
           <div className="col">{book._score}</div>
         </div >
       ))}
+
+      <div className="row" style={{ justifyContent: "center" }}>
+        <Pagination
+          activePage={activePage}
+          itemsCountPerPage={10}
+          totalItemsCount={total}
+          pageRangeDisplayed={5}
+          onChange={(e) => props.handlePageChange(e)}
+        />
+      </div>
     </div>
   );
 };

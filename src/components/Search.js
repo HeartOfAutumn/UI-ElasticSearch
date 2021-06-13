@@ -1,5 +1,6 @@
 import React, { useState } from 'react';
 
+
 const Search = (props) => {
   const { matchBooks } = props;
 
@@ -17,13 +18,13 @@ const Search = (props) => {
     title: (titleIsChecked && !dayIsChecked ? 'title' : ''),
     author: (authorIsChecked && !dayIsChecked ? 'author' : ''),
     startAt: (dayIsChecked ? startAt : ''),
-    endAt: (dayIsChecked ? endAt : '')
+    endAt: (dayIsChecked ? endAt : ''),
   }
 
   const submitHandler = (e) => {
     e.preventDefault();
     matchBooks(searchBy);
-  }
+  };
 
   return (
     <div className="search">

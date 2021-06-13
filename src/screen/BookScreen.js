@@ -7,6 +7,7 @@ const BookScreen = (props) => {
   const [searchBy, setSearchBy] = useState({});
   const [score, setScore] = useState(0);
   const [total, setTotal] = useState(0);
+  const [activePage, setActivePage] = useState(1);
 
   // Mock API với json server
   useEffect(() => {
@@ -26,14 +27,14 @@ const BookScreen = (props) => {
         return {
           field: [searchBy.category, searchBy.title, searchBy.author],
           content: searchBy.text,
-          from: 1
+          from: activePage
         }
       } else {
         return {
           field: ["date"],
           beginDay: searchBy.startAt,
           endDay: searchBy.endAt,
-          from: 1
+          from: activePage
         }
       }
     }
@@ -44,16 +45,25 @@ const BookScreen = (props) => {
         setScore(data.score);
         setTotal(data.total);
       });
-  }, [searchBy])
+  }, [searchBy, activePage])
 
   const matchBooks = (searchBy) => {
     setSearchBy(searchBy);
   }
+  const handlePageChange = (pageNumber) => {
+    setActivePage(pageNumber);
+  }
 
   return (
     <div className="container-fluid">
-      <Search matchBooks={matchBooks} />
-      <ListBook books={books} total={total} max_score={score} />
+      <Search matchBooks={matchBooks} totalItemsCount={total} />
+      <ListBook
+        books={books}
+        total={total}
+        max_score={score}
+        handlePageChange={(e) => handlePageChange(e)}
+        activePage={activePage}
+      />
     </div>
   );
 };
