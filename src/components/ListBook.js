@@ -1,14 +1,7 @@
-import React, { useState } from 'react';
-import Pagination from "react-js-pagination";
+import React from 'react';
 
 const ListBook = (props) => {
-  const { books } = props;
-
-  const [activePage, setActivePage] = useState(1)
-  const handlePageChange = (pageNumber) => {
-    console.log(`active page is ${pageNumber}`);
-    setActivePage(pageNumber)
-  }
+  const { books, total, max_score } = props;
 
   return (
     <div>
@@ -22,6 +15,11 @@ const ListBook = (props) => {
         <div className="col-1">Đánh giá</div>
         <div className="col-1">Số lượng người đánh giá</div>
         <div className="col-1">Hình ảnh</div>
+        <div className="col">Score</div>
+      </div>
+      <div className="row">
+        <div className="col-1">Rotal: {total}</div>
+        <div className="col-1">Max Score: {max_score}</div>
       </div>
       {books.map((book, index) => (
         <div key={index} className="row book">
@@ -36,15 +34,9 @@ const ListBook = (props) => {
           <div className="col-1 img">
             <img src={book.image} alt={book.title} />
           </div>
+          <div className="col">{book._score}</div>
         </div >
       ))}
-      <Pagination
-        activePage={activePage}
-        itemsCountPerPage={10}
-        totalItemsCount={10000}
-        pageRangeDisplayed={10}
-        onChange={(e) => handlePageChange(e)}
-      />
     </div>
   );
 };

@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 
 const Search = (props) => {
   const { matchBooks } = props;
+
   const [text, setText] = useState('');
   const [categoryIsChecked, setCategoryIsChecked] = useState(false);
   const [titleIsChecked, setTitleIsChecked] = useState(false);
