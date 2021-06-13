@@ -15,12 +15,14 @@ const ListBook = (props) => {
         <div className="col-1">Đánh giá</div>
         <div className="col-1">Số lượng người đánh giá</div>
         <div className="col-1">Hình ảnh</div>
-        <div className="col">Score</div>
+        <div className="col">Max Score</div>
       </div>
+
       <div className="row">
-        <div className="col-1">Rotal: {total}</div>
+        <div className="col-1">Total: {total}</div>
         <div className="col-1">Max Score: {max_score}</div>
       </div>
+
       {books.map((book, index) => (
         <div key={index} className="row book">
           <div className="col-1">{index}</div>

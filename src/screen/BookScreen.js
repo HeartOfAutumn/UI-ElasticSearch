@@ -8,21 +8,6 @@ const BookScreen = (props) => {
   const [score, setScore] = useState(0);
   const [total, setTotal] = useState(0);
 
-  let dataForBody;
-
-  if (searchBy.startAt) {
-    dataForBody = {
-      field: ["date"],
-      beginDay: searchBy.startAt,
-      endDay: searchBy.endAt
-    }
-  } else {
-    dataForBody = {
-      field: [searchBy.category, searchBy.title, searchBy.author],
-      content: searchBy.text,
-    }
-  }
-
   // Mock API với json server
   useEffect(() => {
     async function postData(url = '', data = {}) {
@@ -36,13 +21,30 @@ const BookScreen = (props) => {
       return response.json();
     }
 
-    postData('http://localhost:4000/search', dataForBody)
+    const bodyData = () => {
+      if (!searchBy.startAt) {
+        return {
+          field: [searchBy.category, searchBy.title, searchBy.author],
+          content: searchBy.text,
+          from: 1
+        }
+      } else {
+        return {
+          field: ["date"],
+          beginDay: searchBy.startAt,
+          endDay: searchBy.endAt,
+          from: 1
+        }
+      }
+    }
+
+    postData('http://localhost:4000/search', bodyData())
       .then(data => {
         setBooks(data.data);
         setScore(data.score);
         setTotal(data.total);
       });
-  }, [searchBy, dataForBody])
+  }, [searchBy])
 
   const matchBooks = (searchBy) => {
     setSearchBy(searchBy);
