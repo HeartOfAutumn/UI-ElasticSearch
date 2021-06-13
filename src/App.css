@@ -30,3 +30,29 @@ img{
 .bold{
   font-weight: bold;
 }
+
+.pagination{
+  justify-content: center;
+}
+
+.pagination li a {
+  border: 1px solid gray;
+  padding: 5px 13px;
+  margin: 1px;
+  border-radius: 15px;
+  text-decoration: none;
+  color: black;
+  font-size: 25px;
+}
+
+.pagination li.active a {
+  background: red;
+  color: yellow;
+  border: 1px solid yellow;
+  font-weight: bold;
+}
+
+.pagination li.disabled a {
+  cursor: context-menu;
+  opacity: 0.5;
+}

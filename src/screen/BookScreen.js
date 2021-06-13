@@ -23,24 +23,9 @@ const BookScreen = (props) => {
   }, [searchBy])
 
   const matchBooks = (searchBy) => {
+    console.log(searchBy);
     setSearchBy(searchBy);
   }
-
-  // Test với dữ liệu ở máy
-/*   const matchBooks = (searchBy) => {
-    console.log(searchBy);
-    if (searchBy.text === "") {
-      setBooks();
-    } else {
-      let rightBooks = books.filter(
-        book =>
-          book.category.toLowerCase().includes(searchBy.text.toLowerCase())
-          || book.title.toLowerCase().includes(searchBy.text.toLowerCase())
-          || book.author.toLowerCase().includes(searchBy.text.toLowerCase())
-      );
-      setBooks(rightBooks);
-    }
-  } */;
 
   return (
     <div className="container-fluid">

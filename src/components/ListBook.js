@@ -1,7 +1,14 @@
-import React from 'react';
+import React, { useState } from 'react';
+import Pagination from "react-js-pagination";
 
 const ListBook = (props) => {
   const { books } = props;
+
+  const [activePage, setActivePage] = useState(1)
+  const handlePageChange = (pageNumber) => {
+    console.log(`active page is ${pageNumber}`);
+    setActivePage(pageNumber)
+  }
 
   return (
     <div>
@@ -31,6 +38,13 @@ const ListBook = (props) => {
           </div>
         </div >
       ))}
+      <Pagination
+        activePage={activePage}
+        itemsCountPerPage={10}
+        totalItemsCount={10000}
+        pageRangeDisplayed={10}
+        onChange={(e) => handlePageChange(e)}
+      />
     </div>
   );
 };
